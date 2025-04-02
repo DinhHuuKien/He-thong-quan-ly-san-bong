@@ -24,24 +24,19 @@ Hệ thống quản lý sân bóng giúp nhân viên, quản lý và chủ sân 
 - Hiển thị lịch đặt sân theo ngày, tuần, tháng.  
 - Hủy hoặc chỉnh sửa lịch đặt khi cần.  
 
-### 2.3. Quản Lý Thanh Toán  
-- Hỗ trợ thanh toán qua **Tiền mặt, Chuyển khoản, Momo, QR Code**.  
-- Theo dõi đặt cọc & công nợ.  
-- Xuất hóa đơn nếu cần.  
-
-### 2.4. Quản Lý Khách Hàng  
+### 2.3. Quản Lý Khách Hàng  
 - Lưu trữ thông tin khách hàng (**Tên, SĐT, Lịch sử đặt sân**).  
 - Ghi chú khách hàng thân thiết hoặc khách hay hủy sân.  
 
-### 2.5. Quản Lý Nhân Viên  
+### 2.4. Quản Lý Nhân Viên  
 - Phân quyền: **Lễ tân, Quản lý, Kế toán**.  
 - Theo dõi lịch sử thao tác của từng nhân viên.
 
-### 2.6. Báo Cáo & Thống Kê  
+### 2.5. Báo Cáo & Thống Kê  
 - Xem doanh thu theo ngày, tháng.  
 - Thống kê lượt đặt sân giúp tối ưu kinh doanh.  
-- Báo cáo tình trạng sử dụng sân theo thời gian.
-### 2.7 Quản lý dịch vụ đi kèm
+- Báo báo tình trạng sử dụng sân theo thời gian.
+### 2.6 Quản lý dịch vụ đi kèm
 - Quản lý dịch vụ đi kèm
 - Quản lý đặt dịch vụ đi kèm
 - Quản lý giá cả dịch vụ
